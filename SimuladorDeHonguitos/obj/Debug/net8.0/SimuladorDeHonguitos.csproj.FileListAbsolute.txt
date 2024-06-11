@@ -1,0 +1,28 @@
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.exe
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.deps.json
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.runtimeconfig.json
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.pdb
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\refint\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.pdb
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\U\2023-2\IIC2113\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\ref\SimuladorDeHonguitos.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.exe
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.deps.json
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.runtimeconfig.json
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\bin\Debug\net8.0\SimuladorDeHonguitos.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.AssemblyInfoInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.AssemblyInfo.cs
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.csproj.CoreCompileInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\refint\SimuladorDeHonguitos.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\SimuladorDeHonguitos.genruntimeconfig.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Semanales\SimuladorDeHonguitosP2\SimuladorDeHonguitosP2\SimuladorDeHonguitos\obj\Debug\net8.0\ref\SimuladorDeHonguitos.dll

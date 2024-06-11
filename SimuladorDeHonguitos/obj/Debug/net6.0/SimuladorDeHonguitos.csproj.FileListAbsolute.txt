@@ -1,0 +1,45 @@
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.deps.json
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/ref/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.pdb
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/ref/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.pdb
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 11/Actividad/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/ref/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/bin/Debug/net6.0/SimuladorDeHonguitos.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/ref/SimuladorDeHonguitos.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Clases/Clase 21/SimuladorDeHonguitos/SimuladorDeHonguitos/obj/Debug/net6.0/SimuladorDeHonguitos.genruntimeconfig.cache
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\bin\Debug\net6.0\SimuladorDeHonguitos.exe
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\bin\Debug\net6.0\SimuladorDeHonguitos.deps.json
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\bin\Debug\net6.0\SimuladorDeHonguitos.runtimeconfig.json
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\bin\Debug\net6.0\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\bin\Debug\net6.0\SimuladorDeHonguitos.pdb
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.csproj.AssemblyReference.cache
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.AssemblyInfoInputs.cache
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.AssemblyInfo.cs
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\refint\SimuladorDeHonguitos.dll
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.pdb
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\SimuladorDeHonguitos.genruntimeconfig.cache
+C:\Users\Cristian\Downloads\SimuladorDeHonguitos\SimuladorDeHonguitos\obj\Debug\net6.0\ref\SimuladorDeHonguitos.dll
